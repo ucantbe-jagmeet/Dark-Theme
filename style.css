@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     margin: 0;
-    transition: background 0.4s linear;
+    transition: background 0.4s ease-in-out;
 }
 
 body.dark
