@@ -71,5 +71,5 @@
 #equal:hover
 {
    background-color:#0000aa;
-
+   transform: scale(1.1);
 }
