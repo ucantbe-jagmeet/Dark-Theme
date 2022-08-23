@@ -10,6 +10,7 @@ body
     align-items: center;
     min-height: 100vh;
     background: #091921;
+    flex-direction: column;
 }
 
 .clock
@@ -99,4 +100,22 @@ body
     background: rgb(10, 76, 197);
     z-index: 12;
     border-radius: 6px 6px 0 0 ;
+}
+
+h1{
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    letter-spacing: 6px;
+    font-size: 50px;
+    margin-top: 20px;
+    text-align: center;
+}
+.c{
+    color:#ff105e;
+}
+
+
+.k{
+    color: rgb(10, 76, 197);
 }
